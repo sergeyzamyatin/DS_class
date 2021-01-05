@@ -1,3 +1,3 @@
 # DS_class
 
-Создание пробного комита 
+Репозиторий для проектов SkillFactory DataSience
